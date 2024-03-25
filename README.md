@@ -54,7 +54,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 **This is a food ordering app uses react.js as the frontend and rest api as the backend**
 
-### Code Flow 
+### possible errors
+
+Try not to run development server before enabling the RESTapi might run into `failed to fetch miserably`
 
 ### Code Splitting
 
@@ -79,5 +81,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
