@@ -1,0 +1,34 @@
+{
+  "meals": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "description": "A classic Italian pizza topped with tomato sauce, fresh mozzarella, and basil leaves.",
+      "price": 12.99
+    },
+    {
+      "id": "2",
+      "name": "Spaghetti Carbonara",
+      "description": "Spaghetti tossed in a creamy sauce made with egg yolks, pancetta, and Parmesan cheese.",
+      "price": 14.99
+    },
+    {
+      "id": "3",
+      "name": "Beef Bourguignon",
+      "description": "A French beef stew braised in red wine, with bacon, mushrooms, and pearl onions.",
+      "price": 18.99
+    },
+    {
+      "id": "4",
+      "name": "Pad Thai",
+      "description": "A popular Thai dish made with rice noodles, shrimp, eggs, bean sprouts, and a tangy tamarind sauce.",
+      "price": 13.99
+    },
+    {
+      "id": "5",
+      "name": "Fish and Chips",
+      "description": "A British classic featuring beer-battered cod fillets served with crispy French fries and tartar sauce.",
+      "price": 15.99
+    }
+  ]
+}
