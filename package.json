@@ -16,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "show-meals": "json-server -w meals.json -p 3500 -h 127.0.0.1",
+    "monitor-order": "json-server -w order.json -p 3600 -h 127.0.0.1"
   },
   "eslintConfig": {
     "extends": [
